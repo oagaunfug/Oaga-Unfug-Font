@@ -1,11 +1,13 @@
 {
-.appVersion = "1105";
+.appVersion = "1119";
 DisplayStrings = (
 "\012OAGA UNFUG\012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012UNFUG gemacht öäüÜÄÖ\012fuer das Leben\012abcdefghijklmenopqrstuvwxyz.t/emdash/endash ?!-\012Motherfking\012"
 );
+copyright = "Copyright © 2018 by Franz Mühringer. All rights reserved.";
 date = "2018-01-12 17:36:00 +0000";
-designer = Franz;
-familyName = OUFONT;
+designer = "Franz Mühringer";
+designerURL = firlefleisch.at;
+familyName = "Oaga Unfug";
 fontMaster = (
 {
 ascender = 800;
@@ -10245,6 +10247,8 @@ instanceInterpolations = {
 name = Unfug;
 }
 );
+manufacturer = "Oaga Unufg";
+manufacturerURL = oagaunfug.org;
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
